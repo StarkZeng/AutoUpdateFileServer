@@ -1,0 +1,12 @@
+{
+    "packageUrl": "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/",
+    "remoteManifestUrl": "http://tools.itharbors.com/assets_manager/ScriptTest/project_dev.manifest",
+    "version": "1.2.0",
+    "engineVersion": "3.x",
+    "assets": {
+        "ScriptTestTempFile.js": {
+            "md5": "...."
+        }
+    },
+    "searchPaths": []
+}
