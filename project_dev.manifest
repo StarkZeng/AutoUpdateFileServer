@@ -1,6 +1,7 @@
 {
     "packageUrl": "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/download",
     "remoteManifestUrl": "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/project_dev.manifest",
+    "remoteVersionUrl" : "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/version_dev.manifest",
     "version": "1.0.0",
     "engineVersion": "3.6",
     "assets": {
