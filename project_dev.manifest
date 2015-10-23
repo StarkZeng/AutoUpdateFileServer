@@ -1,12 +1,15 @@
 {
-    "packageUrl": "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/",
-    "remoteManifestUrl": "http://tools.itharbors.com/assets_manager/ScriptTest/project_dev.manifest",
-    "version": "1.2.0",
-    "engineVersion": "3.x",
+    "packageUrl": "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/download",
+    "remoteManifestUrl": "https://github.com/StarkZeng/AutoUpdateFileServer/raw/master/project_dev.manifest",
+    "version": "1.0.0",
+    "engineVersion": "3.6",
     "assets": {
-        "ScriptTestTempFile.js": {
-            "md5": "...."
+        "ACT_AIMBackHome.luac": {
+            "md5": "5c8667b9b432e916ee8bfa7859e1ccec"
         }
     },
-    "searchPaths": []
+    "searchPaths": 
+    [
+        "dataSyncAll/"
+    ]
 }
