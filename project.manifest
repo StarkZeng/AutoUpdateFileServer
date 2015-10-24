@@ -1,5 +1,5 @@
 {
-    "packageUrl": "https://raw.githubusercontent.com/StarkZeng/AutoUpdateFileServer/master/download/",
+    "packageUrl": "http://raw.githubusercontent.com/StarkZeng/AutoUpdateFileServer/master/download/",
     "remoteManifestUrl":"http://raw.githubusercontent.com/StarkZeng/AutoUpdateFileServer/master/project.manifest",
     "remoteVersionUrl" :"http://raw.githubusercontent.com/StarkZeng/AutoUpdateFileServer/master/version.manifest",
     "version": "1.0.0",
